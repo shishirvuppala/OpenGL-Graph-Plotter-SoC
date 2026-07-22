@@ -57,7 +57,7 @@ void setupcube(){
 
   fillup(1,3,7,5,glm::vec4(1.0, 1.0, 0.0, 1.0)); // YELLOW
 
-  fillup(2,3,7,6,glm::vec4(1.0, 0.5, 0.5, 1.0)); // ORANGE
+  fillup(2,3,7,6,glm::vec4(1.0, 0.5, 0.0, 1.0)); // ORANGE
 
   fillup(4,6,7,5,glm::vec4(0.0, 1.0, 0.0, 1.0)); // GREEN
 
